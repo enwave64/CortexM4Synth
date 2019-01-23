@@ -1,9 +1,10 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:ST-Link external flash tool,org.eclipse.launchbar.core.descriptorType.default\:Test1 Debug,org.eclipse.launchbar.core.descriptorType.default\:Test1.elf just flash,org.eclipse.launchbar.core.descriptorType.default\:Test2.elf,org.eclipse.launchbar.core.descriptorType.default\:Test1 Debug No Breaks,org.eclipse.launchbar.core.descriptorType.default\:Test1,org.eclipse.launchbar.core.descriptorType.default\:Test1.elf,org.eclipse.launchbar.core.descriptorType.default\:Sawtooth.elf
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:audioExample.elf,org.eclipse.launchbar.core.descriptorType.default\:ST-Link external flash tool,org.eclipse.launchbar.core.descriptorType.default\:Test1 Debug,org.eclipse.launchbar.core.descriptorType.default\:Test1.elf just flash,org.eclipse.launchbar.core.descriptorType.default\:Test2.elf,org.eclipse.launchbar.core.descriptorType.default\:Test1 Debug No Breaks,org.eclipse.launchbar.core.descriptorType.default\:Test1,org.eclipse.launchbar.core.descriptorType.default\:Test1.elf,org.eclipse.launchbar.core.descriptorType.default\:Sawtooth.elf
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:ST-Link\ external\ flash\ tool/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:ST-Link\ external\ flash\ tool/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Sawtooth.elf/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:Test1\ Debug\ No\ Breaks/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:Test1\ Debug\ No\ Breaks/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:Test1\ Debug/activeLaunchMode=run
