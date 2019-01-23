@@ -23,23 +23,23 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   9 .ARM.attributes 00000030  00000000  00000000  00020020  2**0
                   CONTENTS, READONLY
- 10 .debug_info   00005b76  00000000  00000000  00020050  2**0
+ 10 .debug_info   00005b98  00000000  00000000  00020050  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_abbrev 00001131  00000000  00000000  00025bc6  2**0
+ 11 .debug_abbrev 00001131  00000000  00000000  00025be8  2**0
                   CONTENTS, READONLY, DEBUGGING
- 12 .debug_aranges 000007c8  00000000  00000000  00026cf8  2**3
+ 12 .debug_aranges 000007c8  00000000  00000000  00026d20  2**3
                   CONTENTS, READONLY, DEBUGGING
- 13 .debug_ranges 00000710  00000000  00000000  000274c0  2**3
+ 13 .debug_ranges 00000710  00000000  00000000  000274e8  2**3
                   CONTENTS, READONLY, DEBUGGING
- 14 .debug_line   00002850  00000000  00000000  00027bd0  2**0
+ 14 .debug_line   00002bec  00000000  00000000  00027bf8  2**0
                   CONTENTS, READONLY, DEBUGGING
- 15 .debug_str    0000269b  00000000  00000000  0002a420  2**0
+ 15 .debug_str    000026bd  00000000  00000000  0002a7e4  2**0
                   CONTENTS, READONLY, DEBUGGING
- 16 .comment      0000007c  00000000  00000000  0002cabb  2**0
+ 16 .comment      0000007c  00000000  00000000  0002cea1  2**0
                   CONTENTS, READONLY
- 17 .debug_frame  00002180  00000000  00000000  0002cb38  2**2
+ 17 .debug_frame  00002180  00000000  00000000  0002cf20  2**2
                   CONTENTS, READONLY, DEBUGGING
- 18 .stabstr      0000003f  00000000  00000000  0002ecb8  2**0
+ 18 .stabstr      0000003f  00000000  00000000  0002f0a0  2**0
                   CONTENTS, READONLY, DEBUGGING
 
 Disassembly of section .text:
